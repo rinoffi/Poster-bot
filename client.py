@@ -8,7 +8,7 @@ from pyrogram import Client
 class Bot(Client):   
     def __init__(self):
         super().__init__(   
-           "vj-post-search-bot",
+           "poster_searchbot",
             api_id=API_ID,
             api_hash=API_HASH,           
             bot_token=BOT_TOKEN,
