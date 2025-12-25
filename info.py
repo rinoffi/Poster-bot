@@ -13,4 +13,4 @@ BOT_TOKEN    = environ.get("BOT_TOKEN", "8308294882:AAHgsIbWuH1imLlkvIxnZuDt7c-K
 DATABASE_URI = environ.get("DATABASE_URI", "")
 LOG_CHANNEL  = int(environ.get("LOG_CHANNEL", "-1002853893090"))
 ADMIN        = int(environ.get("ADMIN", "6248675084"))
-CHANNEL      = environ.get("CHANNEL", "")
+CHANNEL      = environ.get("CHANNEL", "@Techzorotamil")
